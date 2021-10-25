@@ -1,4 +1,5 @@
 FROM ubuntu:xenial
+# FROM ubuntu:latest
 
 RUN apt-get update
 
